@@ -34,4 +34,4 @@ export const resumeLink: SocialLink = {
   icon: FileText,
 };
 
-export const RESUME_URL = 'https://drive.google.com/file/d/1TQJZP-LjCeXNgZk1otvH4N23nPyHeg_3/view?usp=sharing';
+export const RESUME_URL = 'https://drive.google.com/file/d/1ipOc7xwd-bwdaaD9zNghFiDLoghCHb32/view?usp=sharing';
