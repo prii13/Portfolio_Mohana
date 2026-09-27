@@ -1,0 +1,23 @@
+{
+  "name": "Mohana Priya M | AI Engineer",
+  "short_name": "Mohana Priya",
+  "description": "AI Engineer & Data Science Graduate building intelligent systems that transform data into scalable, real-world solutions.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#070B14",
+  "theme_color": "#4F8CFF",
+  "icons": [
+    {
+      "src": "/favicon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["portfolio", "personal"],
+  "lang": "en"
+}
