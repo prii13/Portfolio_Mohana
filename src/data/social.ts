@@ -10,7 +10,7 @@ export const socialLinks: SocialLink[] = [
   },
   {
     name: 'LinkedIn',
-    url: 'https://www.linkedin.com/in/mohana-a899992aa',
+    url: 'https://www.linkedin.com/in/mohana13/',
     icon: Linkedin,
     username: 'Mohana Priya M',
   },
@@ -30,7 +30,7 @@ export const socialLinks: SocialLink[] = [
 
 export const resumeLink: SocialLink = {
   name: 'Resume',
-  url: 'https://drive.google.com/file/d/1TQJZP-LjCeXNgZk1otvH4N23nPyHeg_3/view?usp=sharing',
+  url: 'https://drive.google.com/file/d/1ipOc7xwd-bwdaaD9zNghFiDLoghCHb32/view?usp=sharing',
   icon: FileText,
 };
 
